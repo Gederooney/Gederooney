@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Gederooney
+# Get to know me
+
+- 👋 Hi, I’m Rony Gédéon @Gederooney
 - 👀 What do i do? Sosial Média marketing | Software Dev | Gaming
-- 🌱 I’m currently learning to code in c
+- 🌱 I’m currently trying to reach my goals at 42 quebec (High level and totaly free Coding schools)
 - 📫 How to reach me: email (gyebadokpo61@gmail.com) or <a href="ronygedeon.com" target="_blank">My website</a>
 
 ======================================================
