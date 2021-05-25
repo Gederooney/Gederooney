@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gederooney
-- 👀 I’m interested in softwares dev and gaming
+- 👀 What do i do? Sosial Média marketing | Software Dev | Gaming
 - 🌱 I’m currently learning to code in c
 - 📫 How to reach me gyebadokpo61@gmail.com
 
