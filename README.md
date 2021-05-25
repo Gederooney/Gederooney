@@ -9,7 +9,7 @@
 # Skills
 
 - Rest API using mern stack (Node js, Express, React, Mongo DB)
-- HTML - CSS - JAVASCRIPT - BOOTSTRAP - PHP
+- HTML - CSS - JAVASCRIPT - BOOTSTRAP - PHP - MYSQL
 - C 
 
 ======================================================
