@@ -6,6 +6,9 @@
 - 📫 How to reach me: by sending an email to (gyebadokpo61@gmail.com) or  by filling a form on [my website](/)
 
 ======================================================
+# My projects
+
+======================================================
 # Skills
 
 - Rest API using mern stack (Node js, Express, React, Mongo DB)
