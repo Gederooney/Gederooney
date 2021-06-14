@@ -11,7 +11,7 @@
 ======================================================
 # Skills
 
-- Rest API using mern stack (Node js, Express, React, Mongo DB)
+- Full stack dev (Node js, Express, React, Mongo DB(atlas))
 - HTML - CSS - JAVASCRIPT - BOOTSTRAP - PHP - MYSQL
 - C 
 
