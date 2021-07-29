@@ -1,7 +1,7 @@
 # Get to know me
 
 - 👋 Hi, I’m Rony Gédéon @Gederooney
-- 👀 What do i do? Sosial Média marketing | Software Dev | Gaming
+- 👀 What do i do? Full stack web dev|Sosial Media marketing | Software Dev | Gaming
 - 🌱 I’m currently trying to reach my goals at 42 quebec (High level and totaly free Coding schools)
 - 📫 How to reach me: by sending an email to (gyebadokpo61@gmail.com) or  by filling a form on [my website](/)
 
