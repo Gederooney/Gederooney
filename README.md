@@ -6,6 +6,7 @@
 - 📫 How to reach me: by sending an email to (gyebadokpo61@gmail.com) or  by filling a form on [my website](/)
 
 ![Stats!](https://github-readme-stats.vercel.app/api?username=gederooney&count_private=true&theme=algolia)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gederooney&langs_count=12&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ======================================================
