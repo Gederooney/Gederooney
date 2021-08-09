@@ -5,6 +5,8 @@
 - 🌱 I’m currently trying to reach my goals at 42 quebec (High level and totaly free computer science school)
 - 📫 How to reach me: by sending an email to (gyebadokpo61@gmail.com) or  by filling a form on [my website](/)
 
+![Stats!](https://github-readme-stats.vercel.app/api?username=gederooney&count_private=true&theme=algolia)
+
 ======================================================
 # My projects
 
