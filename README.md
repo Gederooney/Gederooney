@@ -23,8 +23,7 @@
 # My coding Goals:
 
 - Learn C++
-- Learn Python
-- Learn Machine Learning
+- Become a beast in node js
 <!---
 Gederooney/Gederooney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
