@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Rony Gédéon @Gederooney
 - 👀 What do i do? Full stack web dev |Sosial Media marketing
 - 🌱 I’m currently trying to reach my goals at 42 quebec
-- 📫 How to reach me: by sending an email to (gyebadokpo61@gmail.com) or  by filling a form on [my website](ronygedeon.com)
+- 📫 How to reach me: by sending an email to (gyebadokpo61@gmail.com) or  by filling a form on [my website](https://www.ronygedeon.com)
 
 ![Stats!](https://github-readme-stats.vercel.app/api?username=gederooney&count_private=true&theme=algolia)
 
