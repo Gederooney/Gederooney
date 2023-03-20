@@ -5,9 +5,7 @@
 - 🌱 I’m currently trying to reach my goals at 42 quebec
 - 📫 Reach me by [email](mailto:gyebadokpo61@gmail.com) or fill a form [here](https://www.ronygedeon.com)
 
-![Stats!](https://github-readme-stats.vercel.app/api?username=gederooney&count_private=true&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gederooney&langs_count=12&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
 
 ======================================================
 # My projects
