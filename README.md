@@ -8,15 +8,23 @@
 - 🌱 I’m currently trying to reach my goals studying at 42 quebec
 - 📫 Reach me by [email](mailto:gyebadokpo61@gmail.com) or fill a form [here](https://www.ronygedeon.com)
 
+======================================================
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=gederooney&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
+======================================================
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
+
+======================================================
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true)
 
 ======================================================
 # What can i do?
 
 - Full stack dev (Node js, Express, React, Mongo DB(atlas))
-- HTML - CSS - JAVASCRIPT - BOOTSTRAP - PHP - MYSQL
-- C C++
+- Software dev
 
 ======================================================
 # My coding Goals:
