@@ -8,7 +8,7 @@
 - 🌱 I’m currently trying to reach my goals studying at 42 quebec
 - 📫 Reach me by [email](mailto:gyebadokpo61@gmail.com) or fill a form [here](https://www.ronygedeon.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gederooney&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gederooney&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 
 ======================================================
