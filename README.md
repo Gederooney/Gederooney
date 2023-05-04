@@ -5,6 +5,8 @@
 - 🌱 I’m currently trying to reach my goals studying at 42 quebec
 - 📫 Reach me by [email](mailto:gyebadokpo61@gmail.com) or fill a form [here](https://www.ronygedeon.com)
 
+![](https://komarev.com/ghpvc/?username=gederooney)
+
 
 ======================================================
 # What can i do?
