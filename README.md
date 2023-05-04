@@ -7,6 +7,8 @@
 
 (https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
+
 ======================================================
 # My projects
 
@@ -15,12 +17,11 @@
 
 - Full stack dev (Node js, Express, React, Mongo DB(atlas))
 - HTML - CSS - JAVASCRIPT - BOOTSTRAP - PHP - MYSQL
-- C 
+- C CPP
 
 ======================================================
 # My coding Goals:
 
-- Learn C++
 - Become a beast in node js
 <!---
 Gederooney/Gederooney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
