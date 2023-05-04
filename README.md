@@ -7,7 +7,7 @@
 
 (https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gederooney&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
 
 ======================================================
 # My projects
