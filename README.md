@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=gederooney)
+
 # Get to know me
 
 - 👋 Hi, I’m Rony Gédéon @Gederooney
@@ -5,7 +8,7 @@
 - 🌱 I’m currently trying to reach my goals studying at 42 quebec
 - 📫 Reach me by [email](mailto:gyebadokpo61@gmail.com) or fill a form [here](https://www.ronygedeon.com)
 
-![](https://komarev.com/ghpvc/?username=gederooney)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gederooney&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ======================================================
