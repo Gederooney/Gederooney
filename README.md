@@ -23,7 +23,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=gederooney&show_icons=true&count_private=true)
 
 ======================================================
-#SCHOOL PROJECTS
+# SCHOOL PROJECTS
 | Circle | Project Names   | Final Mark | Decription
 | ------ | --------------- | ---------- | ---------- |
 | 00     | LIBFT           | ![ryebadok's 42 Libft Score](https://badge42.vercel.app/api/v2/clip8z2k2001108mhtf68qdxv/project/2167563) | REMAKE OF C LIBRAIRI |
