@@ -7,7 +7,7 @@
 
 |                             |                             |                             |
 | --------------------------- | --------------------------- | --------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=gederooney&theme=onedark&hide_border=true)](https://git.io/streak-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gederooney&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats) | ![Stats](https://github-readme-stats.vercel.app/api?username=gederooney&show_icons=true&count_private=true) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=gederooney&theme=onedark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gederooney&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api?username=gederooney&show_icons=true&count_private=true) |
 
 # SKILLS
 |                             |                             |                             |
