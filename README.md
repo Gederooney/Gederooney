@@ -2,7 +2,7 @@
 # Get to know me
 - 👋 Hi, I’m Rony Gédéon @Gederooney 
 - 👀 What do I do? Full stack web dev | I love soccer 
-- 🌱 I’m currently studying at 42 Quebec, aiming to reach my goals 
+- 🌱 CoFounder of GGDevs 
 - 📫 Reach me by [email](mailto:gyebadokpo61@gmail.com) or fill out the [contact form](https://gederooney.me) 
 
 |                             |                             |                             |
